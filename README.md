@@ -8,9 +8,9 @@ Welcome to my GitHub profile! 🎉 I’m a dedicated developer with a passion fo
 
 Here's a snapshot of my GitHub activity and achievements:
 
-- **Repositories**: ![Repositories](https://img.shields.io/badge/Repositories-![repo_count](https://img.shields.io/github/repositories/dharanicb98?style=flat-square&color=brightgreen))
-- **Commits**: ![Commits](https://img.shields.io/badge/Commits-![commits_count](https://img.shields.io/github/commit-activity/m/dharanicb98?style=flat-square&color=blue))
-- **Contributions**: ![Contributions](https://img.shields.io/badge/Contributions-![contributions_count](https://img.shields.io/github/contributions/dharanicb98?style=flat-square&color=orange))
+- **Repositories**: ![Repositories](https://img.shields.io/github/followers/dharanicb98?style=social)
+- **Commits**: ![Commits](https://img.shields.io/github/commit-activity/m/dharanicb98?style=flat-square&color=blue)
+- **Contributions**: ![Contributions](https://img.shields.io/github/contributions/dharanicb98?style=flat-square&color=orange)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanicb98&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
